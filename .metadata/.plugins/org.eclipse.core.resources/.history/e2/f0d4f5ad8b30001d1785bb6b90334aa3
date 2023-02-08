@@ -1,0 +1,5 @@
+package com.example.demo.dsmeta.confing;
+
+public class SecurityConfig {
+
+}
